@@ -1,0 +1,15 @@
+ul li{
+  list-style: none;
+  margin-right: 5%;
+  font-size: 30px;
+  font-weight: bolder;
+ 
+}
+ul{
+  display: flex;
+}
+
+ul li{
+  cursor: pointer;
+ 
+}
